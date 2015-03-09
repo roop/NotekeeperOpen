@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Converted with SVG Converter - Version 0.9.5 (Compiled Mon May 30 09:08:51 2011) - Copyright (C) 2011 Nokia -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48"
+   x="0px"
+   y="0px"
+   version="1.1"
+   viewBox="0 0 48 48"
+   height="48"
+   id="svg2"
+   xml:space="preserve"
+   inkscape:version="0.48.0 r9654"
+   sodipodi:docname="trash_white.svg"><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="880"
+   inkscape:window-height="655"
+   id="namedview19"
+   showgrid="false"
+   inkscape:zoom="5.375"
+   inkscape:cx="24"
+   inkscape:cy="24"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg2" />
+ <metadata
+   id="metadata40"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata>
+ <defs
+   id="defs4">
+  <linearGradient
+   id="linearGradient3785"
+   y1="51.5"
+   y2="5.5005002"
+   x1="33.5005"
+   x2="33.5005"
+   gradientUnits="userSpaceOnUse">
+   <stop
+   offset="0"
+   style="stop-color:#D0CBC5"
+   id="stop3787" />
+   <stop
+   offset="0.5031"
+   style="stop-color:#FAFCEF"
+   id="stop3789" />
+   <stop
+   offset="0.9693"
+   style="stop-color:#FFFFFF"
+   id="stop3791" />
+  </linearGradient>
+ </defs>
+ <rect
+   width="67"
+   x="0"
+   y="-9"
+   height="57"
+   style="fill:none"
+   id="BOUNDING_BOX_1_" />
+ <path
+   style="fill:#ffffff;fill-opacity:1;stroke-opacity:0.3"
+   id="path7"
+   d="M 11.201064,44 H 36.801596 L 38.401685,14.196522 H 9.600976 L 11.201064,44 z M 28.801153,20.470435 c 0,-0.866957 0.715782,-1.568696 1.600088,-1.568696 0.884307,0 1.600089,0.701739 1.600089,1.568696 v 15.686087 c 0,0.866956 -0.715782,1.568695 -1.600089,1.568695 -0.884306,0 -1.600088,-0.701739 -1.600088,-1.568695 V 20.470435 z m -6.400355,0 c 0,-0.866957 0.715782,-1.568696 1.600089,-1.568696 0.884306,0 1.600088,0.701739 1.600088,1.568696 v 15.686087 c 0,0.866956 -0.715782,1.568695 -1.600088,1.568695 -0.884307,0 -1.600089,-0.701739 -1.600089,-1.568695 V 20.470435 z m -6.400355,0 c 0,-0.866957 0.715782,-1.568696 1.600089,-1.568696 0.884307,0 1.600089,0.701739 1.600089,1.568696 v 15.686087 c 0,0.866956 -0.715782,1.568695 -1.600089,1.568695 -0.884307,0 -1.600089,-0.701739 -1.600089,-1.568695 V 20.470435 z M 38.400798,7.921739 H 29.60031 V 6.3530435 C 29.60031,5.0565217 28.525306,4 27.200177,4 H 20.800709 C 19.478242,4 18.400577,5.0565217 18.400577,6.3530435 V 7.921739 H 9.600089 C 8.715782,7.921739 8,8.625217 8,9.490435 V 11.05913 H 39.999999 V 9.490435 C 40.000887,8.624348 39.282443,7.921739 38.400798,7.921739 z m -11.200621,0 H 20.800709 V 6.3530435 h 6.399468 V 7.921739 z"
+   inkscape:connector-curvature="0" />
+ <linearGradient
+   id="SVGID_1_"
+   y1="51.5"
+   x1="33.5005"
+   y2="5.5005002"
+   gradientUnits="userSpaceOnUse"
+   x2="33.5005">
+  <stop
+   offset="0"
+   style="stop-color:#61744b;stop-opacity:1;"
+   id="stop14" />
+  <stop
+   offset="0.50309998"
+   style="stop-color:#8fd257;stop-opacity:1;"
+   id="stop16" />
+  <stop
+   offset="0.60000002"
+   style="stop-color:#7cc143;stop-opacity:1;"
+   id="stop3793" />
+  <stop
+   offset="0.96929997"
+   style="stop-color:#6ab12f;stop-opacity:1;"
+   id="stop18" />
+  <stop
+   offset="0"
+   style="stop-color:#D0CBC5"
+   id="stop19" />
+  <stop
+   offset="0.5031"
+   style="stop-color:#FAFCEF"
+   id="stop21" />
+  <stop
+   offset="0.9693"
+   style="stop-color:#FFFFFF"
+   id="stop23" />
+ </linearGradient>
+</svg>

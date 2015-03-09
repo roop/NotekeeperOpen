@@ -1,0 +1,29 @@
+/* Please copy as notekeeper_config.h and populate all the fields.
+ */
+
+// Evernote API consumer key and consumer secret.
+//
+// To be obtained by requesting for an API key from
+// Evernote at https://dev.evernote.com/.
+// When requesting, ask for "full access" and tick the
+// checkbox indicating that the app intends to
+// "sync all user data".
+
+#define EVERNOTE_OAUTH_CONSUMER_KEY "key"
+#define EVERNOTE_OAUTH_CONSUMER_SECRET "rsecret"
+
+// Encryption key used to secure the locally stored
+// Evernote authentication tokens.
+//
+// A random sequence of bytes as a hexadecimal string.
+// Can be generated at www.random.org.
+
+#define ENCRYPTION_KEY "0123456789abcdef"
+
+// Evernote API host
+//
+// When using the Evernote development server,
+// please change this to "sandbox.evernote.com"
+
+#define EVERNOTE_API_HOST "www.evernote.com"
+

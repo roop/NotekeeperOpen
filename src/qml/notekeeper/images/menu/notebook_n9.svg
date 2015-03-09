@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<!-- Converted with SVG Converter - Version 0.9.5 (Compiled Mon May 30 09:08:51 2011) - Copyright (C) 2011 Nokia -->
+<svg xmlns="http://www.w3.org/2000/svg" width="48px" version="1.1" height="48px" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" id="svg4181">
+ <defs id="defs4183">
+  <linearGradient id="linearGradient2983">
+   <stop offset="0" style="stop-color:#d9d9d9;stop-opacity:1;" id="stop2985"/>
+   <stop offset="1" style="stop-color:#ffffff;stop-opacity:1;" id="stop2987"/>
+  </linearGradient>
+  <linearGradient id="linearGradient2989" y1="44.65501" x1="38.025864" y2="3.0253553" x2="38.025864" gradientUnits="userSpaceOnUse">
+   <stop offset="0" style="stop-color:#aaaaaa;stop-opacity:1;" id="stop3021-4"/>
+   <stop offset="0.75" style="stop-color:#2b2b2b;stop-opacity:1;" id="stop3023-0"/>
+   <stop offset="1" style="stop-color:#1b1b1b;stop-opacity:1;" id="stop3025-3"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3037" y1="43.753803" x1="4.1534061" y2="3.7492244" x2="4.1534061" gradientUnits="userSpaceOnUse">
+   <stop offset="0" style="stop-color:#767676;stop-opacity:1;" id="stop3021"/>
+   <stop offset="0.60000002" style="stop-color:#ffffff;stop-opacity:1;" id="stop3023"/>
+   <stop offset="1" style="stop-color:#ffffff;stop-opacity:1;" id="stop3025"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3019">
+   <stop offset="0" style="stop-color:#767676;stop-opacity:1;" id="stop3021"/>
+   <stop offset="0.60000002" style="stop-color:#ffffff;stop-opacity:1;" id="stop3023"/>
+   <stop offset="1" style="stop-color:#ffffff;stop-opacity:1;" id="stop3025"/>
+  </linearGradient>
+  <linearGradient gradientTransform="translate(-85.821335,0.16040077)" id="linearGradient3053" y1="43.753803" y2="3.7492244" x1="4.1534061" x2="4.1534061" gradientUnits="userSpaceOnUse">
+   <stop offset="0" style="stop-color:#767676;stop-opacity:1;" id="stop3021"/>
+   <stop offset="0.60000002" style="stop-color:#ffffff;stop-opacity:1;" id="stop3023"/>
+   <stop offset="1" style="stop-color:#ffffff;stop-opacity:1;" id="stop3025"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3037-5" y1="43.753803" x1="4.1534061" y2="3.7492244" x2="4.1534061" gradientUnits="userSpaceOnUse">
+   <stop offset="0" style="stop-color:#aaaaaa;stop-opacity:1;" id="stop3021-4"/>
+   <stop offset="0.75" style="stop-color:#2b2b2b;stop-opacity:1;" id="stop3023-0"/>
+   <stop offset="1" style="stop-color:#1b1b1b;stop-opacity:1;" id="stop3025-3"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3019-3">
+   <stop offset="0" style="stop-color:#aaaaaa;stop-opacity:1;" id="stop3021-4"/>
+   <stop offset="0.75" style="stop-color:#2b2b2b;stop-opacity:1;" id="stop3023-0"/>
+   <stop offset="1" style="stop-color:#1b1b1b;stop-opacity:1;" id="stop3025-3"/>
+  </linearGradient>
+  <linearGradient gradientTransform="translate(-86.023366,-4.8903619)" id="linearGradient3860" y1="43.753803" y2="3.7492244" x1="4.1534061" x2="4.1534061" gradientUnits="userSpaceOnUse">
+   <stop offset="0" style="stop-color:#aaaaaa;stop-opacity:1;" id="stop3021-4"/>
+   <stop offset="0.75" style="stop-color:#2b2b2b;stop-opacity:1;" id="stop3023-0"/>
+   <stop offset="1" style="stop-color:#1b1b1b;stop-opacity:1;" id="stop3025-3"/>
+  </linearGradient>
+ </defs>
+ <metadata id="metadata4186"/>
+ <g id="layer1">
+  <path style="fill:url(#linearGradient2989);fill-opacity:1;stroke:none" id="rect4163" d="m 37.691981,10.916842 1.286624,-0.708148 0.0197,31.38612 -1.30632,0.867225 z M 9.912074,6.2918262 c 0.09051,-1.6416866 1.420883,-2.6759423 4.316595,-2.2312484 L 37.695043,10.914603 39,10.191391 15.244968,3.1618263 C 12.009225,2.5666398 9.009122,3.61254 9,6.3112123 z M 9,6.28125 9.09375,36.5625 c 0.371198,1.264632 0.146729,1.623563 2.46875,2.625 L 32.5,45 l 0,-30.53125 -5.71875,-1.59375 2.125,0.625 0.03125,20.5 -5.28125,-7.65625 -4.6875,4.71875 -0.0625,-20.375 -6.375,-1.78125 C 10.46619,8.5508205 10.051737,7.4262599 9.9375,6.28125 l -0.9375,0 z"/>
+ </g>
+</svg>

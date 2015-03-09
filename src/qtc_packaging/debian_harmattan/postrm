@@ -1,0 +1,33 @@
+#!/bin/sh
+
+appExecName=notekeeper-open
+
+baseDataDir=/home/user/.local/share/data/Notekeeper
+baseCacheDir=/home/user/.cache/Notekeeper
+
+case "$1" in
+    purge|remove|abort-install|disappear)
+        rm -rf $baseDataDir/$appExecName/
+        rm -rf $baseCacheDir/$appExecName/
+        # if baseDataDir exists and is empty, remove it
+        if [ -d $baseDataDir ]; then
+            if [ ! "$(ls -A $baseDataDir)" ]; then
+                rmdir $baseDataDir
+            fi
+        fi
+        # if baseCacheDir exists and is empty, remove it
+        if [ -d $baseCacheDir ]; then
+            if [ ! "$(ls -A $baseCacheDir)" ]; then
+                rmdir $baseCacheDir
+            fi
+        fi
+    ;;
+    upgrade|failed-upgrade|abort-upgrade)
+        # Nothing to do
+    ;;
+    *)
+        echo "postrm called with unknown argument '$1'" >&2
+        exit 1
+    ;;
+esac
+exit 0

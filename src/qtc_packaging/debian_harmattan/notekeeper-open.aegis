@@ -1,0 +1,23 @@
+<aegis>
+	<request policy="add">
+		<!-- Application uses QtDeclarative module. -->
+
+		<!-- import QtMultimediaKit 1.1 -->
+		<credential name="GRP::pulse-access" />
+		<credential name="GRP::video" />
+
+		<!-- import QtMobility.gallery 1.1 -->
+		<credential name="TrackerReadAccess" />
+		<credential name="TrackerWriteAccess" />
+
+		<for path="/opt/notekeeper-open/bin/notekeeper-open" />
+		<for path="applauncherd-launcher::/usr/bin/applauncherd.bin" id="" />
+	</request>
+
+	<request context="INSTALL">
+        <!-- Make our postrm script run as users:user instead of as root,
+             so that we're able to remove data under /home/user. -->
+		<credential name="UID::user" />
+		<credential name="GID::users" />
+	</request>
+</aegis>

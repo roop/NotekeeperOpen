@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<!-- Converted with SVG Converter - Version 0.9.5 (Compiled Mon May 30 09:08:51 2011) - Copyright (C) 2011 Nokia -->
+<svg xmlns="http://www.w3.org/2000/svg" width="30px" x="0px" y="0px" version="1.1" viewBox="0 0 30 30" height="30px" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="tiny" id="svg2" xml:space="preserve">
+ <metadata id="metadata23"/>
+ <defs id="defs21">
+  <linearGradient id="linearGradient3019">
+   <stop offset="0" style="stop-color:#666666;stop-opacity:1;" id="stop3021"/>
+   <stop offset="1" style="stop-color:#a2a2a2;stop-opacity:1;" id="stop3023"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3025" y1="2.8668327" x1="22.693193" y2="26.931826" x2="22.693193" gradientUnits="userSpaceOnUse">
+   <stop offset="0" style="stop-color:#666666;stop-opacity:1;" id="stop3021"/>
+   <stop offset="1" style="stop-color:#a2a2a2;stop-opacity:1;" id="stop3023"/>
+  </linearGradient>
+  <linearGradient id="linearGradient3036" y1="2.8668327" x1="22.693193" y2="26.931826" gradientUnits="userSpaceOnUse" x2="22.693193">
+   <stop offset="0" style="stop-color:#666666;stop-opacity:1;" id="stop3021"/>
+   <stop offset="1" style="stop-color:#a2a2a2;stop-opacity:1;" id="stop3023"/>
+  </linearGradient>
+ </defs>
+ <g id="g3027" transform="matrix(0.83333333,0,0,0.83333333,2.5,1.0000001)">
+  <g id="DO_NOT_EDIT_-_BOUNDING_BOX">
+   <rect width="30" x="0" y="0" height="30" style="fill:none" id="BOUNDING_BOX"/>
+  </g>
+  <path style="opacity:0.3" id="path9" d="M 26.09,3.895 23.635,2.18 C 23.184,1.864 22.563,1.979 22.252,2.434 L 10.986,18.555 6.734,12.647 C 6.414,12.198 5.791,12.096 5.345,12.422 l -2.42,1.768 c -0.443,0.324 -0.543,0.953 -0.221,1.402 l 6.529,9.193 C 9.709,25.549 10.268,26 10.998,26 c 0.693,0 1.191,-0.409 1.645,-1.102 L 26.338,5.292 C 26.65,4.837 26.539,4.211 26.09,3.895 z"/>
+  <path style="opacity:0.15" id="path11" d="M 10.998,28 C 9.96,28 9.081,27.433 8.385,26.313 L 1.89,17.171 C 1.252,16.282 1.451,15.029 2.336,14.382 l 2.42,-1.768 c 0.342,-0.25 0.748,-0.384 1.172,-0.384 0.642,0 1.248,0.313 1.62,0.835 l 3.426,4.76 10.459,-14.964 c 0.364,-0.535 0.979,-0.86 1.638,-0.86 0.409,0 0.803,0.125 1.139,0.36 l 2.453,1.714 c 0.897,0.632 1.121,1.88 0.5,2.783 l -13.7,19.613 C 13.228,26.83 12.462,28 10.998,28 z"/>
+  <path style="opacity:0.15" id="path13" d="M 26.09,4.895 23.635,3.18 C 23.184,2.864 22.563,2.979 22.252,3.434 L 10.986,19.555 6.734,13.647 C 6.414,13.198 5.791,13.096 5.345,13.422 l -2.42,1.768 c -0.443,0.324 -0.543,0.953 -0.221,1.402 l 6.529,9.193 C 9.709,26.549 10.268,27 10.998,27 c 0.693,0 1.191,-0.409 1.645,-1.102 L 26.338,6.292 C 26.65,5.837 26.539,5.211 26.09,4.895 z"/>
+  <path style="fill:url(#linearGradient3036);fill-opacity:1" id="path15" d="M 26.09,4.895 23.635,3.18 C 23.184,2.864 22.563,2.979 22.252,3.434 L 10.986,19.555 6.734,13.647 C 6.414,13.198 5.791,13.096 5.345,13.422 l -2.42,1.768 c -0.443,0.324 -0.543,0.953 -0.221,1.402 l 6.529,9.193 C 9.709,26.549 10.268,27 10.998,27 c 0.693,0 1.191,-0.409 1.645,-1.102 L 26.338,6.292 C 26.65,5.837 26.539,5.211 26.09,4.895 z"/>
+  <rect width="30" x="0" y="0" height="30" style="fill:none" id="rect17"/>
+ </g>
+</svg>
